@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently studying on Uppsala University
+- 🌱 I’m currently learning backend technologies
+- 👯 I’m collaborating on a plant recognition project 
+- 📫 How to reach me: 1065709724ja@gmail.com
+
+
 <!--
 **shashd/shashd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
