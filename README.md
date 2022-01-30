@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on Uppsala University
 - 🌱 I’m currently learning backend technologies
-- 👯 I’m collaborating on a plant recognition project 
+- 👯 I’m collaborating on a Master Thesis
 - 📫 How to reach me: 1065709724@qq.com
 - 😄 My blog: https://shashd.github.io/
 
